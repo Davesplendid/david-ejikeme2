@@ -1,8 +1,4 @@
 # david ejikeme
-
-    9. What is a .git Directory?
-    10. What happens if the .git directory gets deleted?
-
 1. What is the difference between Git and Github?
 	a.Git is an open-source distributed version control system (DVCS). it proves to be an excellent software. while GitHub is a Web-based Git version control repository hosting service.
    	b.Git is a software while GitHub is a service
